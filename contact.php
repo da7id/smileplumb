@@ -8,9 +8,9 @@ $field_message = $_POST['message'];
 
 // Validation mail
 // Type your mail and the message that will be sent to everyone that contacts you
-$your_name = 'Br0';
-$your_mail = 'support@shindiristudio.com';
-$your_message = 'This is a test auto response, please don\'t reply.';
+$your_name = 'smileplumb photography';
+$your_mail = 'info@smileplumb.com';
+$your_message = 'New response received from website';
 
 $mail_to = $your_mail;
 $subject = 'Mail from '.$field_name;

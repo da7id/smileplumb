@@ -235,7 +235,7 @@ nav {min-height: 87px;}
 
 .border-bottom-gray {border-bottom: 1px solid #8D8E8D; display: inline-block; width: 80px;}
 .border-bottom-white {border-bottom: 1px solid #fff; display: inline-block; width: 420px;}
-.text-caption {font-size: 20px; line-height: 28px; font-weight: 200; font-family: 'Raleway';}
+.text-caption {max-width:600px;margin:0 auto;font-size: 20px; line-height: 28px; font-weight: 200; font-family: 'Raleway';}
 
 
 /*  Portfolio Square  */

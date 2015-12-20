@@ -9,7 +9,7 @@ $field_message = $_POST['message'];
 // Validation mail
 // Type your mail and the message that will be sent to everyone that contacts you
 $your_name = 'smileplumb photography';
-$your_mail = 'info@smileplumb.com';
+$your_mail = 'da7idbarron@gmail.com';
 $your_message = 'New response received from website';
 
 $mail_to = $your_mail;
